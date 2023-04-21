@@ -1,7 +1,7 @@
 ⚠️ Important 
 This project is no longer being continued, maybe someday there will be a new project with command templates in it
 
-https://github.com/miruchigawa/Template-Bot-Facebook
+https://github.com/Reygie23/fbot-beta-v1
 
 Hello, this is my project for this time I'm making a Facebook bot with OpenAi inside it, this is a simple coding and maybe not so neat inside.
 
@@ -16,6 +16,4 @@ Once that's done, let's move on to the second step. Open the terminal, type in t
 You can edit or change the owner.
 
 If you have any questions, feel free to send them to:
-Twitter: https://twitter.com/miruchigawa
-Facebook: https://www.facebook.com/kritoz.ae
-Website: https://miftahfauzan.netlify.app
+Facebook:https://web.facebook.com/Jreg.Sc
